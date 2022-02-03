@@ -1,3 +1,3 @@
 ```
-yaare yaare
+Eat | Sleep | Nerd | Manga | Repeat
 ```
