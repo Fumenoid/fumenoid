@@ -1,3 +1,3 @@
 ```
-Eat | Sleep | Nerd | Manga | Repeat
+Eat | Nerd | Manga | Sleep | Repeat
 ```
